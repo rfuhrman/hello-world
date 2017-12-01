@@ -2,4 +2,4 @@
 introduction into GitHub
 
 
-Will this line merge?
+Hello World! Testing how to edit and merge a document into GitHub.
